@@ -14,3 +14,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Parties-List/
+
+![image](https://user-images.githubusercontent.com/95743795/163053673-e01b3515-2de7-4c5a-b053-a3f17106742a.png)
